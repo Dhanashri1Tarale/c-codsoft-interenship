@@ -1,4 +1,4 @@
-C++ codsoft interenship:
+C++ codsoft internship:
 
  DESCRIPTION 
  
